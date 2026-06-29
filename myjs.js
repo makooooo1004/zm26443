@@ -1,4 +1,4 @@
-alert('Hello,Mako!);
+alert('Hello, Mako!');
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(2+3);
